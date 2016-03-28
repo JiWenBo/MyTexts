@@ -13,5 +13,10 @@ public class MainActivity extends AppCompatActivity {
         //网络完成
         //注册
         //注册完成
+
+
+        // 页面完成
+
+        // yemian
     }
 }
