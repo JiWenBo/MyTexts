@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //网络完成
         //注册
+        //注册完成
     }
 }
