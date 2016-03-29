@@ -14,7 +14,7 @@ public class NewsAdapter extends BaseAdapter {
     private ArrayList<String> student;
     @Override
     public int getCount() {
-        return 0;
+        return student != null && student.size() > 0 ? student.size() : 0;
     }
 
     @Override
