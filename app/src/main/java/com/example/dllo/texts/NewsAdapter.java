@@ -4,11 +4,14 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 
+import java.util.ArrayList;
+
 /**
  * Created by nan on 16/3/29.
  */
 public class NewsAdapter extends BaseAdapter {
     // shipeiqi
+    private ArrayList<String> student;
     @Override
     public int getCount() {
         return 0;
