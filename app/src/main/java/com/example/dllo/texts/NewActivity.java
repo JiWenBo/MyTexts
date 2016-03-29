@@ -11,5 +11,6 @@ public class NewActivity extends Activity{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.newactivity);
+        //照片好看,项目不会
     }
 }
