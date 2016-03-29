@@ -8,6 +8,7 @@ import android.widget.BaseAdapter;
  * Created by nan on 16/3/29.
  */
 public class NewsAdapter extends BaseAdapter {
+    // shipeiqi
     @Override
     public int getCount() {
         return 0;
